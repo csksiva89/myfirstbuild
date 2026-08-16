@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\MyWebAPI\\MyWebAPI.csproj": {}
+    "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\mywebapi\\MyWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\MyWebAPI\\MyWebAPI.csproj": {
+    "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\mywebapi\\MyWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\MyWebAPI\\MyWebAPI.csproj",
+        "projectUniqueName": "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\mywebapi\\MyWebAPI.csproj",
         "projectName": "MyWebAPI",
-        "projectPath": "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\MyWebAPI\\MyWebAPI.csproj",
+        "projectPath": "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\mywebapi\\MyWebAPI.csproj",
         "packagesPath": "C:\\Users\\Sivakumar\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\MyWebAPI\\obj\\",
+        "outputPath": "C:\\GIT-REPO\\MYFIRSTREPO\\myfirstbuild\\myfirstbuild\\mywebapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
